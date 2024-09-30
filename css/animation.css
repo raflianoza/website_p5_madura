@@ -1,0 +1,21 @@
+/* INDEX */
+
+/* typewriter di judul */
+.judul {
+    border-right: 3.5px solid;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: 
+        typing 4.7s,
+        cursor .4s step-end infinite alternate;
+}
+
+/* cursor kedap-kedip */
+@keyframes cursor {
+    50% { border-color: transparent; }
+}
+
+@keyframes typing {
+    from { width: 0; }
+}

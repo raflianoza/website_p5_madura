@@ -1,0 +1,246 @@
+/* Color */
+/*
+colorP: #343131;
+colorS: #A04747;
+colorT: #D8A25E;
+colorF: #EEDF7A; 
+*/
+
+/* Default */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Body */
+/* Background */
+.bg-home {
+    background-color: #343131 !important;
+}
+
+.bg-s {
+    background-color: #A04747;
+}
+
+/* Text Colour */
+.text-t {
+    color: #D8A25E;
+}
+
+.text-f {
+    color: #EEDF7A;
+}    
+
+/* Text Align */
+
+.text-justify {
+    text-align: justify;
+}
+
+/* Image Filter */
+
+.img-filter {
+    filter: brightness(70%) !important;
+}
+
+/* End of Body */
+
+/* Navbar */
+.bg-nav {
+    background-color: #A04747;
+}
+
+.nav-link:hover, .navbar-brand:hover, .active-page {
+    text-decoration: underline;
+    color: #EEDF7A;
+}
+
+/* End of Navbar */
+
+/* Telusuri Lebih Lanjut */
+.btn-tlsr:hover {
+    background-color: #D8A25E;
+    color: #A04747;
+}
+
+.active-modal {
+    color: #551A8B;
+}
+
+/* End of Telusuri Lebih Lanjut */
+
+/* Credit */
+.about {
+    text-decoration: underline;
+}
+
+
+.about:hover {
+    text-decoration: underline !important;
+    color: #D8A25E;
+}
+/* End of Credit */
+
+
+/* ================INDEX================== */
+
+/* Welcomers */
+.img-carousel {
+    filter: brightness(60%);
+    height: 29em;
+}
+
+/* Tablet */
+@media only screen and (max-width: 992px) {
+    .panorama-1 {
+        margin-top: 2em;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .img-carousel {
+        height: 24em;
+    }
+
+    .panorama-1 {
+        width: 99%;
+    }
+}
+
+@media only screen and (max-width: 555px) {
+    .img-carousel {
+        max-height: 17rem!important;
+    }
+}
+
+/* End of Welcomers */
+
+/* Maps */
+.maps {
+    margin-top: 8.5em;
+    margin-bottom: 1.7rem;
+}
+
+.maps-iframe {
+    display: flex;
+    justify-content: center;
+}
+
+/* End of Maps */
+
+/* =================BUDAYA================= */
+
+/* Welcomers */
+@media only screen and (max-width: 992px) {
+    .para-2 {
+        margin-top: 2em;
+    }
+}
+/* End of Welcomers */
+
+/* Kebudayaan */
+.budaya {
+    margin-top: 2em;
+}
+
+.img-budaya {
+    border-color: #D8A25E!important;
+}
+
+@media only screen and (max-width: 765px) {
+    .h1-budaya-6 {
+        text-align: start !important;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .img-budaya {
+        margin-top: 1em !important;
+    }
+}
+
+/* End of Kebudayaan */
+
+/* Credit */
+.credit {
+    margin-right: 0;
+}
+/* End of Credit */
+
+
+
+
+/* =================KULINER========== */
+
+/* Konten Makanan */
+.konten-makanan {
+    max-width: 70%;
+}
+
+.img-makanan {
+    filter: brightness(60%);
+    width: 75%!important;
+}
+
+@media only screen and (max-width: 900px) {
+    .konten-makanan {
+        max-width: 90%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .img-makanan {
+        max-width: 100%;
+    }
+}
+/* End of Konten Makanan */
+
+/* ================WISATA=========== */
+
+/* Gallery */
+.card {
+    margin-top: 2.8rem;
+}
+
+@media only screen and (max-width: 991px) and (min-width: 767px) {
+    .card {
+        max-width: 14rem;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .card {
+        max-width: 19rem;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .card {
+        margin: 0 auto;
+        margin-top: 1rem!important;
+        float: none;
+    }
+}
+
+.btn-map {
+    margin-top: 1rem;
+    background-color: #D8A25E;
+    color: #A04747;
+}
+
+.btn-map:hover {
+    background-color: #A04747;
+    color: #D8A25E;
+    border: .1px solid #D8A25E;
+}
+
+/* End of Gallery */
+
+/* ===============MADURA=========== */
+.raflianoza:hover {
+    color: #8e5e24!important;
+}
+
+.bti:hover {
+    color: #D8A25E;
+    font-style: normal!important;
+}
