@@ -7,7 +7,7 @@ This website was for the P5 RA MAN Insan Cendekia Sumedang Theme "Bhinneka Tungg
 
 
 ## The Background of This Website Creation
-It started when I got Madura Group for my P5 RA MAN Insan Cendekia Sumedang exhibition theme. My group was hilarious, abstract, and "creative". Long story short, I notice that we haven't made any creation that unique, that it can make people to come to our stand. And yap! That's the reason why this website exists. Even though we didn't make a group creation as cool as the others, I'm very excited to meet, play, and work with them! And I'm very proud to be part of Madura Group because we are the only group that has their website. 
+It started when I got Madura for my P5 RA MAN Insan Cendekia Sumedang exhibition theme. My group was hilarious, abstract, and "creative". Long story short, I noticed that we haven't made any unique creations that can make people come to our stand. And yap! That's the reason why this website exists. Even though we didn't make a group creation as cool as the others, I'm very excited to meet, play, and work with them! And I'm very proud to be part of Madura Group because we are the only group that has their own website. 
 
 
 ## Color Reference
